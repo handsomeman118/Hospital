@@ -184,6 +184,8 @@ void inquireRegistered()
     }
     else if (choose[2] != 0)cout << "请输入正确操作项" << '\n' << '\n';
 }
+
+// test
 void inquireChoose()
 {
     cout << "请输入操作项：返回上一项（0），查看科室挂号情况（1），查看B超机预约情况（2)" << '\n' << '\n';
