@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\win10\Desktop\doctor_OPERATE\doctor_Operate\源.cpp(220,27): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  doctor_Operate.vcxproj -> C:\Users\win10\Desktop\doctor_OPERATE\x64\Debug\doctor_Operate.exe
